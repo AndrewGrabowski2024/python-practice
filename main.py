@@ -64,9 +64,9 @@ addTwoNumbers(3248,19384)
 
 
 
-def madLib(asd, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r):
-    print("while i stayed at home, ivbe practiced the"+ asd + "for" + b + "hours every"+ c + ". My favirite key signiture to play and practice in is" + d + e + ". it has" + f + "flats and" + g +"sharps. I like this key signiture because it is" + h + "and" + j +". I've also gotten awesome at counting timne signatures. The time signature i love is" + k + ", because it is" + l + "to count. One instrument i want to learn how to play while im at home is" + m + "because it is" + n + "and sounds like a" + o + ". My" + p + "likes it when i play" + q + ", and akways gives me a round of applause after my performances! When i return to school, my teacher will be" + r + "of how great i am playing my instrument. My teacher might even think i sound like" + s + "!")
+def madLib(a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r):
+    print("while i stayed at home, ivbe practiced the"+ a + " for" + b + "hours every"+ c + ". My favirite key signiture to play and practice in is" + d + e + ". it has" + f + "flats and" + g +"sharps. I like this key signiture because it is" + h + "and" + i +". I've also gotten awesome at counting timne signatures. The time signature i love is" + j + ", because it is" + k + "to count. One instrument i want to learn how to play while im at home is" + l + "because it is" + m + "and sounds like a" + n + ". My" + o + "likes it when i play" + p + ", and akways gives me a round of applause after my performances! When i return to school, my teacher will be" + q + "of how great i am playing my instrument. My teacher might even think i sound like" + r + "!")
 
 
-madLib("mayonaise", "10", "sunday","E","major","3723043579","1","submissive","breedable","16532/3","looooong","horse radish", "chonky","jimmys mom","dad","astronaut in the ocean","pumped","dababy")
+madLib(" mayonaise", " 10", " sunday"," E"," major"," 3723043579"," 1"," submissive"," breedable"," 16532/3"," looooong"," horse radish", " chonky"," jimmys mom"," dad"," astronaut in the ocean"," pumped"," dababy")
 
